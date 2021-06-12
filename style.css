@@ -87,6 +87,10 @@ h1 span{
     text-align: center;
 }
 
+.sub-info p{
+    font-size: .8rem;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
