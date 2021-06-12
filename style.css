@@ -17,10 +17,10 @@ h1{
 
 .container{
     background-image:url('images/bg-pattern-top.svg'),url('images/bg-pattern-bottom.svg');
-    /* background-position: -140px -450px,850px 500px; */
-    background-position: right 48vw bottom 42vh, left 48vw top 42vh;
+    /* background-position: left -150px top -220px, bottom -520px right -50px; */
+    background-position: right 52vw bottom 42vh, left 48vw top 42vh;
     background-attachment: fixed;
-    background-size:1000px,1000px,;
+    /* background-size:1000px,1000px; */
     background-repeat: no-repeat;
     background-color: hsl(185, 75%, 39%);
     height: 900px;
@@ -35,7 +35,7 @@ h1{
     background-color: white;
     border-radius: 17px;
     position: relative;
-    top: 230px;
+    top: 200px;
 }
 
 .header{
